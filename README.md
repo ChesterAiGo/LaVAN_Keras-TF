@@ -1,4 +1,4 @@
-# LaVAN_python-tf-
+
 Reproduction of work "LaVAN: Localized and Visible Adversarial Noise - ICML2018"
 
 Simply run python3 LaVAN_V2.py
